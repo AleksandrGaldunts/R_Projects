@@ -1,0 +1,11 @@
+subject,age,sex,race,height,weight
+001,20,M,White,170,67
+002,54,F,Black,155,68
+003,74,M,Asian,167,69
+004,19,F,,154,70
+005,24,,White,167,64
+006,26,F,Black,158,62
+007,28,M,Asian,187,68
+008,35,M,White,169,59
+009,34,M,Black,174,68
+010,36,F,Asian,,57
